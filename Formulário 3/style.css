@@ -27,7 +27,7 @@ body{
 	height: 100%;
 	left: 0;
 	top: 0;
-	background: url("bg.jpg") no-repeat center;
+	background: url("ahuy.webp") no-repeat center;
 	background-size: cover;
 	filter: blur(50px);
 	z-index: -1;
@@ -39,12 +39,12 @@ body{
 	justify-content: center;
 	align-items: center;
 	text-align: center;
-	background-color: #fff;
+	background-color: #FFF;
 	box-shadow: 0px 0px 19px 5px rgba(0,0,0,0.19);
 }
 
 .left{
-	background: url("bg.jpg") no-repeat center;
+	background: url("ahuy.webp") no-repeat center;
 	background-size: cover;
 	height: 100%;
 }
@@ -68,7 +68,7 @@ h2:after{
     height: 4px;
     width: 50px;
     border-radius: 2px;
-    background-color: #2ecc71;
+    background-color: #F08080;
 }
 
 .field{
@@ -93,7 +93,7 @@ textarea{
 .btn{
 	width: 100%;
 	padding: 0.5rem 1rem;
-	background-color: #2ecc71;
+	background-color: #F08080;
 	color: #fff;
 	font-size: 1.1rem;
 	border: none;
@@ -103,7 +103,7 @@ textarea{
 }
 
 .btn:hover{
-    background-color: #27ae60;
+    background-color: #F08080;
 }
 
 .field:focus{
